@@ -67,9 +67,9 @@ def _quit():
     exit()
 
 
-# Display a Message Box
+# Display a Message Box for halp menu
 def _msgBox():
-    message_box.showinfo('Blood Donor Management System', 'Blood Donor Management System GUI created in 2018. \nCreated by Md. Sharwat Kabir & Biplab C. Debnath.')
+    message_box.showinfo('Blood Donor Management System', 'Blood Donor Management System GUI created in 2018 by \nMd. Sharwat Kabir & Biplab C. Debnath.')
 
 
 # Menu Bar -------------------------------------------------------------
